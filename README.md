@@ -11,7 +11,6 @@ It allows businesses to:
 ---
 
 ## 📌 Workflow Overview
-![Workflow Diagram](./Whatsapp_workflow_detailed.png)
 
 **Flow:**
 1. WhatsApp Message Trigger (incoming/outgoing)  
