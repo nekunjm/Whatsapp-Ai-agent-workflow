@@ -11,7 +11,7 @@ It allows businesses to:
 ---
 
 ## 📌 Workflow Overview
-![Workflow Diagram](Whatsapp_workflow_detailed.png)
+![Workflow Diagram](./Whatsapp_workflow_detailed.png)
 
 **Flow:**
 1. WhatsApp Message Trigger (incoming/outgoing)  
@@ -32,7 +32,8 @@ It allows businesses to:
    - Must include `Name` and `Number` columns.  
 
 3. **Template Database (Google Sheets)**  
-   - Columns: `General Name`, `Template Name`, `Media Type`, `Media ID`  
+   - Columns: `General Name`, `Templ<img width="9402" height="2982" alt="Whatsapp workflow detailed" src="https://github.com/user-attachments/assets/cc994636-074a-4091-a4f0-35591f5e0757" />
+ate Name`, `Media Type`, `Media ID`  
 
 4. **Media Upload**  
    - Upload file to Google Drive  
@@ -47,15 +48,10 @@ It allows businesses to:
 
 ---
 
-## 📷 Screenshots
-(Add screenshots of WhatsApp messages + n8n flow here)
-
----
-
 ## 🚀 Hire Me
 This is a client project I delivered.  
 If you want me to build something similar for your business:  
-- Email: [your email here]  
-- LinkedIn: [your LinkedIn here]  
-- WhatsApp: [your number here]  
+- Email: nekunjm@gmail.com 
+- LinkedIn: www.linkedin.com/in/nekunj-malushte-387992324 
+- WhatsApp: +91 8879897814
 
