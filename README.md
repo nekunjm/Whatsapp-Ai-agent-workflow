@@ -11,7 +11,7 @@ It allows businesses to:
 ---
 
 ## 📌 Workflow Overview
-![Workflow Diagram](./whatsapp_ai_agent_workflow.png)
+![Workflow Diagram](Whatsapp-workflow-detailed.png)
 
 **Flow:**
 1. WhatsApp Message Trigger (incoming/outgoing)  
